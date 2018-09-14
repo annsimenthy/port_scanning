@@ -32,5 +32,6 @@ for x in range(num):
 while inidcator == 0:
     dport = int(input("Please enter any port number to try: or enter alphabet to exit"));
     check(dport)
+    
         
         
